@@ -1,3 +1,4 @@
+![logo](https://github.com/DevilSurgent/DevilSurgent/blob/main/362d5c55859146c0c7debfca296ad321.gif)
 <h1 align="center">Hi 👋, I'm Kalash Tiwari</h1>
 <h3 align="center">a proactive Data Science Learner</h3>
 
