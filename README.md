@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devilsurgent&label=Profile%20views&color=0e75b6&style=flat" alt="devilsurgent" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devilsurgent" alt="devilsurgent" /></a> </p>
+<img align="right" alt="coding" width= "400" src="https://i.pinimg.com/originals/5a/ab/23/5aab239aeaf861b629f3eac134d6bf74.gif"
 
 - 🔭 I’m currently working on **Data Analysis Project**
 
